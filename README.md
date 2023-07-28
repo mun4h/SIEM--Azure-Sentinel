@@ -11,7 +11,8 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 <h2>Lab walk-through:</h2>
 
 Sign up for a free account and enter your credentials, this will require a credit card to get $200 free worth of service for 12 months 
-<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/tree/main/images/1.png" height="80%" width="80%"/>
+
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/1.png" height="80%" width="80%"/>
 
 
 
