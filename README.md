@@ -24,6 +24,15 @@ Create a Virtual Machine also known as a honeypot that will be exposed to the in
 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/4.png" height="300%" width="80%"/>
 
+Set up the Virtual Machine by creating a new resource group for resource share and everything in this lab will be put in this resource group
+
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/5.png" height="300%" width="80%"/>
+
+create a name for the Virtual machine and add the region and leave other options as default, then create a user and password for the VM
+
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/6.png" height="300%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/7.png" height="300%" width="80%"/>
+
 
 
 
