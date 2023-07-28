@@ -34,7 +34,17 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/7.png" height="300%" width="80%"/>
 
-<h3>Confirm the licensing information and click next </h3>
+<h3>Confirm the licensing information and click Next to Disks and Next to Networking </h3>
+
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/8.png" height="300%" width="80%"/>
+
+<h3>Create a new firewall control, make it open to the internet, remove the default rule, and create a new inbound rule that allows everything into the VM </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/9.png" height="300%" width="80%"/>
+<h3>Change the destination port to * for any  and make the priority to a low value and name the rule which will allow all traffic from the internet into the VM this rule will allow the VM to be discoverable </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/10.png" height="300%" width="80%"/>
+
+<h3> Click Review and create once the new rule has been added</h3></h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/11.png" height="300%" width="80%"/>
 
 
 
