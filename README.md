@@ -18,7 +18,7 @@ Once account is set up, go to <a href="https://portal.azure.com/">Azure Portal</
 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/2.png" height="300%" width="80%"/>
 
-Create a Virtual Machine that will be exposed to the internet and allow anyone from any part of the world can try to access
+Create a Virtual Machine also known as a honeypot that will be exposed to the internet and allow anyone from any part of the world to try to access once they see it available on the internet
 
 
 
