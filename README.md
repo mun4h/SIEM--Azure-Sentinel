@@ -14,6 +14,8 @@ Sign up for a free account with either a Microsoft account or a GitHub account, 
 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/1.png" height="300%" width="80%"/>
 
+Once account is set up, go to <a href="https://portal.azure.com/">Azure Portal</a> 
+
 
 
 
