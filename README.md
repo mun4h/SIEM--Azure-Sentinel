@@ -8,7 +8,8 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 <h2>Environments Used </h2>
 - <b>Microsoft Azure <a href="https://azure.microsoft.com/en-us/free/">here</a> </b>
 
-<b>Sign up for a free account and enter your credentials, this will require a credit card to get $200 free worth service for 12 months </b>
+Sign up for a free account and enter your credentials, this will require a credit card to get $200 free worth of service for 12 months 
+
 
 
 
