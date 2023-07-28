@@ -31,7 +31,10 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 <h3> Create a name for the Virtual machine and add the region and leave other options as default, then create a user and password for the VM</h3>
 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/6.png" height="300%" width="80%"/>
+
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/7.png" height="300%" width="80%"/>
+
+<h3>Confirm the licensing information and click next </h3>
 
 
 
