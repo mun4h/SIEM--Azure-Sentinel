@@ -2,11 +2,11 @@
 
 
 <h2>Description</h2>
-This Project shows a simple demonstration of how to perform a Vulnerability scan on a  Windows 10 machine virtual machine using a Scanner called Nessus Essentials.
+This Project shows a simple demonstration of a SIEM setup using Azure Sentinel and a vulnerable virtual machine in the cloud and subsequently a map of live attacks on the machine machine
 <br />
 
 <h2>Environments Used </h2>
-
+- <b>Microsoft Azure <a href="https://azure.microsoft.com/en-us/free/">here</a> </b>
 
 
 
