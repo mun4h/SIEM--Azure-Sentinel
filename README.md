@@ -49,7 +49,7 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 <h3> The deployment is done and VM has been set up </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/12.png" height="30%" width="80%"/>
 
-<h3> Next is to make log Analytics workspaces that will be used to inject logs from the VM and we will also create a custom log that contains geographic location </h3>
+<h3> Next is to make log Analytics workspaces that will be used to inject logs from the VM and we will also create a custom log that contains geographic information of where the attacks are coming from </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/13.png" height="30%" width="80%"/>
 
 
