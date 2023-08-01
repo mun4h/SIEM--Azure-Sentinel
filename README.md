@@ -55,6 +55,10 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/15.png" height="30%" width="80%"/>
 <h3>Azure sentinel will connect to the workspace to display the geodata on the map</h3>
 <h3> Click Review and Create, then click Create on the next page </h3>
+<h3>Set up a Security Center also known as Microsoft Defender for Cloud and enable the ability to gather logs from the VM into the Log Analytics Workspaces</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/16.png" height="30%" width="80%"/>
+<h3> Then go to Management and Environment settings and go the the the workspace under Azure subcriptions</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/17.png" height="30%" width="80%"/>
 
 
 
