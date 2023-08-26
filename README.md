@@ -78,7 +78,10 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/22b.png" height="30%" width="80%"/>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/22c.png" height="30%" width="80%"/>
 <h3>Logging in to the VM with incorrect credentials to get the log from the Event Viewer on the VM</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/23a.png" height="30%" width="80%"/>
+<h3>Going through the details of the failed login attempt will give the username and IP address of the attempt  </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/23.png" height="30%" width="80%"/>
+
 
 
 
