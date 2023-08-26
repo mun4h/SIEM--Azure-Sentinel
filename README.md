@@ -87,7 +87,15 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <h3>Turn the firewall off on the VM to allow any inbound ECHO request and make it available on the internet faster</h3>
 <h3>Ping the VM with the IP address before and after turning off the firewall</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/25.png" height="30%" width="80%"/>
-<h3></h3>
+<h3>Open a new script of Windows Powershell ISE and Copy/paste a script that will be used to filter failed RDP events from Windows Event Viewer/h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/26.png" height="30%" width="80%"/>
+ <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/27.png" height="30%" width="80%"/>
+<h3>Save the pasted script on desktop</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/27a.png" height="30%" width="80%"/>
+<h3> Sign up on IPGeolocation website to get the API KEY <a href="https://ipgeolocation.io/">here</a></h3>
+
+
+
 
 
 
