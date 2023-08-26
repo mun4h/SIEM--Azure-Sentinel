@@ -106,6 +106,14 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28e.png" height="30%" width="80%"/>
 <h3>Run the script to show the output</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/29.png" height="30%" width="80%"/>
+ <h3>The Script takes all failed login attempts from the Event viewer,  takes it to the IPgeolocation website, and shows the geo data  in the output section of the powershell</h3>
+ <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/31.png" height="30%" width="80%"/>
+<h3>Using the sample geo data in the log file on the C drive to train the log analytics workspaces to accept and parse out the custom log </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/30.png" height="30%" width="80%"/>
+
+
+
+
 
 
 
