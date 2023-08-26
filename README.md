@@ -87,17 +87,7 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <h3>Turn the firewall off on the VM to allow any inbound ECHO request and make it available on the internet faster</h3>
 <h3>Ping the VM with the IP address before and after turning off the firewall</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/25.png" height="30%" width="80%"/>
-
-
-
-
-
-
-
-
-
-
-
+<h3></h3>
 
 
 
