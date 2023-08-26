@@ -98,6 +98,11 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28a.png" height="30%" width="80%"/>
 <h3>Sign up on the website will give the ability to get geodata and longitude &latitude </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28b.png" height="30%" width="80%"/>
+<h3>Paste the API key in the script and run the script</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28c.png" height="30%" width="80%"/>
+<h3>The script output will save the log in this C drive</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28d.png" height="30%" width="80%"/>
+
 
 
 
