@@ -102,6 +102,9 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28c.png" height="30%" width="80%"/>
 <h3>The script output will save the log in this C drive</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28d.png" height="30%" width="80%"/>
+<h3>Here is the location in the C drive named failed_rdp/h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28e.png" height="30%" width="80%"/>
+
 
 
 
