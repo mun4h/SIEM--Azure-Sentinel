@@ -93,6 +93,14 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <h3>Save the pasted script on desktop</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/27a.png" height="30%" width="80%"/>
 <h3> Sign up on IPGeolocation website to get the API KEY <a href="https://ipgeolocation.io/">here</a></h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28.png" height="30%" width="80%"/>
+<h3>Sign up with Google or sign up with an email </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28a.png" height="30%" width="80%"/>
+<h3>Sign up on the website will give the ability to get geodata and longitude &latitude </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/28b.png" height="30%" width="80%"/>
+
+
+
 
 
 
