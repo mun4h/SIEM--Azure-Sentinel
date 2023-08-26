@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project shows a simple demonstration of a SIEM setup using Azure Sentinel and a vulnerable virtual machine in the cloud and subsequently a map of live attacks on the machine machine
+This Project shows a simple demonstration of an SIEM setup using Azure Sentinel and a vulnerable virtual machine in the cloud and subsequently a map of live attacks on the machine machine
 <br />
 
 <h2>Environments Used </h2>
@@ -28,7 +28,7 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/5.png" height="30%" width="80%"/>
 
-<h3> Create a name for the Virtual machine and add the region and leave other options as default, then create a user and password for the VM</h3>
+<h3> Create a name for the Virtual machine,add the region and leave other options as default, then create a user and password for the VM</h3>
 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/6.png" height="30%" width="80%"/>
 
@@ -57,8 +57,22 @@ This Project shows a simple demonstration of a SIEM setup using Azure Sentinel a
 <h3> Click Review and Create, then click Create on the next page </h3>
 <h3>Set up a Security Center also known as Microsoft Defender for Cloud and enable the ability to gather logs from the VM into the Log Analytics Workspaces</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/16.png" height="30%" width="80%"/>
-<h3> Then go to Management, Environment settings and select the workspace under Azure subcriptions</h3>
+<h3> Then go to Management, Environment settings, and select the workspace under Azure subcriptions</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/17.png" height="30%" width="80%"/>
+<h3>Turn off the SQL server and save at the top</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/18.png" height="30%" width="80%"/>
+<h3>Go to log analytics workspaces and connect to the virtual machine </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/19.png" height="30%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/19b.png" height="30%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/19c.png" height="30%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/19d.png" height="30%" width="80%"/>
+<h3>Set up Sentinel which is the SIEM to use to visualize the attack data and pick log analytics workspace to get logs from </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/20.png" height="30%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/20a.png" height="30%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/20b.png" height="30%" width="80%"/>
+
+
+
 
 
 
