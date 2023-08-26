@@ -83,7 +83,7 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/23.png" height="30%" width="80%"/>
 <h3><b>Go to the IP geolocation website to get more information about the attempted login using the IP address <a href="https://ipgeolocation.io/">here</a> </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/24.png" height="30%" width="80%"/>
-<h3>Use the log in the result to create a custom log and send the log to the log analytics workspace and use the Azure sentinel to read the information and use it to plot a map </h3>
+<h3> Use the log in the result to create a custom log and send the log to the log analytics workspace and use the Azure sentinel to read the information and use it to plot a map </h3>
 
 
 
