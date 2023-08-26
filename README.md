@@ -84,6 +84,13 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <h3><b>Go to the IP geolocation website to get more information about the attempted login using the IP address <a href="https://ipgeolocation.io/">here</a> </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/24.png" height="30%" width="80%"/>
 <h4> Use the log in the result to create a custom log and send the log to the log analytics workspace and use the Azure sentinel to read the information and use it to plot a map </h4>
+<h3>Turn the firewall off on the VM to allow any inbound ECHO request and make it available on the internet faster</h3>
+<h3>Ping the VM with the IP address before and after turning off the firewall</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/25.png" height="30%" width="80%"/>
+
+
+
+
 
 
 
