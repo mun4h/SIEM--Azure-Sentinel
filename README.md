@@ -130,6 +130,15 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35a.png" height="30%" width="80%"/>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35b.png" height="30%" width="80%"/>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35c.png" height="30%" width="80%"/>
+<h3>Edit the workbook by removing the default widgets</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35d.png" height="30%" width="80%"/>
+ <h3>Add a new query</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35e.png" height="30%" width="80%"/>
+<h3>Add a new query and run </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/36.png" height="30%" width="80%"/>
+
+
+
 
 
 
