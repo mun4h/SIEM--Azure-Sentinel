@@ -110,6 +110,20 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
  <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/31.png" height="30%" width="80%"/>
 <h3>Using the sample geo data in the log file on the C drive to train the log analytics workspaces to accept and parse out the custom log </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/30.png" height="30%" width="80%"/>
+<h3>Go to Azure and create a custom log in the Log Analytics workspaces that will allow custom log with geodata from the IPgeolocation website  </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/32.png" height="30%" width="80%"/>
+<h3>Go to the Log Analytics workspace, and select Tables, in the Tables blade, select New custom log (MMA-based) and set up the custom log</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/32a.png" height="30%" width="80%"/>
+<h3>Copy the failedRDP log file to the local machine and open and select the file in the C drive on the local machine then click next</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/32b.png" height="30%" width="80%"/>
+<h3>Click next on the next page and </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/32c.png" height="30%" width="80%"/>
+<h3>On the next page, select the OS type and put the log path on the VM then go to the next page</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/32d.png" height="30%" width="80%"/>
+<h3>Put a name and go to next to create the custom log</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/32e.png" height="30%" width="80%"/>
+
+
 
 
 
