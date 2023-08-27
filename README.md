@@ -124,20 +124,8 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/32e.png" height="30%" width="80%"/>
 <h3>Run the custom log to query to show the failed RDP login</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/33.png" height="30%" width="80%"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h3>We will use the script to extract raw data from the query result to make different fields </h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/34.png" height="30%" width="80%"/>
 
 
 
