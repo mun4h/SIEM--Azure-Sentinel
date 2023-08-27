@@ -144,6 +144,8 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <h3>Click "done editing" and save</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/37d.png" height="30%" width="80%"/>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/37c.png" height="30%" width="80%"/>
+<h3>Visual of the Map after 12hpurs of 15hours of exposure to the internet</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/38.png" height="30%" width="80%"/>
 
 
 
