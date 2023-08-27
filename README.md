@@ -126,6 +126,15 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/33.png" height="30%" width="80%"/>
 <h3>We will use the script to extract raw data from the query result to make different fields </h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/34.png" height="30%" width="80%"/>
+<h3>Setting up a map in sentinel by going to the Log Analytics workspace and setting up a new workbook</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35a.png" height="30%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35b.png" height="30%" width="80%"/>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/35c.png" height="30%" width="80%"/>
+
+
+
+
+
 
 
 
