@@ -139,6 +139,8 @@ This Project shows a simple demonstration of an SIEM setup using Azure Sentinel 
 <h3>Change the visualization to map</h3>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/37.png" height="30%" width="80%"/>
 <img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/37a.png" height="30%" width="80%"/>
+<h3>Change the metric label to "Country" to show the number of attacks coming from different countries</h3>
+<img src="https://github.com/mun4h/SIEM--Azure-Sentinel/blob/main/images/37b.png" height="30%" width="80%"/>
 
 
 
