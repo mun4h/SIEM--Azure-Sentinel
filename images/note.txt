@@ -1,0 +1,2 @@
+note
+delete the resources group to avoid free allocation use up
