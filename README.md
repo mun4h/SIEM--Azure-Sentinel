@@ -1,4 +1,4 @@
-<h1>SIEM demonstartion using Azure Sentinel</h1>
+<h1>SIEM demonstration using Azure Sentinel</h1>
 
 
 <h2>Description</h2>
